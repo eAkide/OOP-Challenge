@@ -1,0 +1,11 @@
+# 🐾 OOP Challenge: Pet Class
+
+This project is part of an Object-Oriented Programming (OOP) challenge.  
+It involves creating a simple `Pet` class with attributes and methods to simulate a pet’s behavior.
+done by: Eva Akide
+
+## 📚 Project Structure
+- **pet.py**: Contains the `Pet` class with attributes and methods.
+- **main.py**: Used to create a pet object and test the functionality.
+- **screenshot.png**: Screenshot showing the output when the program is run.
+
